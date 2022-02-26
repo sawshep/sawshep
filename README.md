@@ -12,4 +12,4 @@ My name is Sawyer Shepherd. I'm currently a student at Chattahoochee Technical C
 - 🤔 I’m looking for help with:
   * Finding an internship! If you would like to hire me, email me at my contact details (see below).
 - 📫 How to reach me:
-  My contact information is on the [front page of my blog](https://sawyershepherd.org) and on my Github profile.
+  * My contact information is on the [front page of my blog](https://sawyershepherd.org) and on my Github profile.
