@@ -14,4 +14,5 @@ My name is Sawyer Shepherd. I'm currently a student at Chattahoochee Technical C
 - 📫 How to reach me:
   * My contact information is on the [front page of my blog](https://sawyershepherd.org) and on my Github profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawshep)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sawshep&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sawshep&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
