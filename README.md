@@ -4,8 +4,9 @@ My name is Sawyer Shepherd. I'm currently a student at Chattahoochee Technical C
 
 - 🔭 I’m currently working on:
   * A symbolic AI to parse sentences with context-free grammar trees
-  * A symbolic AI to balance equations and find algebraic proofs ([Algebro](https://github.com/sawshep/algebro))
+  * [Algebro](https://github.com/sawshep/algebro): symbolic AI to balance equations and find algebraic proofs 
   * My [blog](https://sawyershepherd.org) and [static site generator](https://github.com/sawshep/sawsge)
+  * [Can](https://github.com/sawshep/can): command-line trash manager as a drop-in replacement for `rm`
 - 🌱 I’m currently learning:
   * Common Lisp
   * Symbolic artificial intelligence programming
