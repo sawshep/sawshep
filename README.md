@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sawshep.sawshep) since May 2022
+
 My name is Sawyer Shepherd. I'm currently a student at Chattahoochee Technical College. I occasionally compete in Capture-The-Flag competitions, and scored third place in the [Fall 2021 KSU CTF](https://github.com/AndyGreenPhD/HS_CTF/tree/main/fall_2021), and 26th place nationally among highschool teams and [149th place globally among all teams](https://ctftime.org/event/1264/) in HSCTF 8.
 
 - 🔭 I’m currently working on:
