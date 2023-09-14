@@ -9,14 +9,13 @@ My name is Sawyer Shepherd. I'm a cybersecurity student at UNG. I occasionally c
 * [HSCTF 9](https://ctftime.org/event/1627/): 10th place in US highschool division, 41st place globally
 
 🔭 I’m currently working on:
- * A symbolic AI to parse sentences with context-free grammar trees
- * [Algebro](https://github.com/sawshep/algebro): symbolic AI to balance equations and find algebraic proofs 
- * My [blog](https://sawyershepherd.org) and [static site generator](https://github.com/sawshep/sawsge)
+ * Studying for the OSCP
+ * Putting writeups on my [blog](https://sawyershepherd.org)
  * [Can](https://github.com/sawshep/can): command-line trash manager as a drop-in replacement for `rm`
  
 🌱 I’m currently learning:
- * Common Lisp
- * Symbolic artificial intelligence programming
+ * Reverse Engineering
+ * Active Directory exploitation
  
 🤔 I’m looking for help with:
  * Finding an internship! If you would like to hire me, email me at my contact details (see below).
