@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sawshep.sawshep)
 
-My name is Sawyer Shepherd. I'm currently a student studying cybersecurity. I occasionally compete in Capture-The-Flag competitions. A few of my rankings are as follows:
+My name is Sawyer Shepherd. I'm a cybersecurity student at UNG. I occasionally compete in Capture-The-Flag competitions. A few of my rankings are as follows:
 
 * [Fall 2021 KSU CTF](https://github.com/AndyGreenPhD/HS_CTF/tree/main/fall_2021): 3rd place, winning prize money
 * [HSCTF 8](https://ctftime.org/event/1264/): 26th place in US highschool division, 149th place globally
